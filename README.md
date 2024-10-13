@@ -8,7 +8,7 @@ Descargable con el paquete
 
 Colocar en la terminal 
 
-#Output del codigo 
+# Output del codigo 
 
 ![image](https://github.com/user-attachments/assets/c1be0b96-895c-490b-83aa-3d78868c7ccf)
 
