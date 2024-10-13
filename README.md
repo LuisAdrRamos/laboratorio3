@@ -1,5 +1,12 @@
-
 # Laboratorio 3 - Desarrollo Web - Adrian Ramos
+
+Dependencia necesaria para poder hacer input
+
+Descargable con el paquete 
+
+## npm install prompt-sync 
+
+Colocar en la terminal 
 
 #Output del codigo 
 
